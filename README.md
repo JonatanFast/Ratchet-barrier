@@ -1,9 +1,10 @@
 # Ratchet-barrier
 Analysis for paper: Geometric symmetry breaking and nonlinearity can increase thermoelectric power
+Preprint manuscript available at: https://doi.org/10.48550/arXiv.2304.01616
 
 # There are 4 main scripts (IPYNB format, open in VS code) + 1 normal python file containing all my functions:
 1. 	"Calculate_transmission.IPYNB" is used to create an array containg the transmission probability of a 
-	ramp shaped barrier based on the schrödinger equation (Peter derives it in the manuscript SI). 
+	ramp shaped barrier based on the schrödinger equation (Derives it in the manuscript SI). 
 	Typically you do not need to run this script as I have calculated and saved the transmission probability 
 	for a number of different settings, found as JSON files in "Ratchet Barrier/Model/Calculated transmission"
 2.	"Ratchet_no_heating.IPYNB" calculates a large 2D array of the SSE between experiment without heating and
