@@ -1,0 +1,8 @@
+V_heater appliceras symetriskt men datan visar bara ena sidan, (dubblera)
+B1_N2_0911_log14 heatin on Steep side 3X back and forward på varje
+B1_N2_0911_log15 heatin on Gradient side, 3X back and forward på varje
+B1_N2_0911_log16 referense IV utan heaters3X back and forward på varje
+
+HL01_B1_N2_0212_S11D10_log1,3,5 IV data på samma prov utan BG voltage i flytande kväve, i olika (större) voltage range
+
+HL01_B1_RT_0112_log4, 8 IV data på samma prov utan BG voltage i rumstemperature, i olika (större) voltage range

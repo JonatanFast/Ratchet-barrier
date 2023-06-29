@@ -1,0 +1,173 @@
+IV N2 B1, ref
+
+S-10,D-11
+
+Yoko1: S -10
+Sr570->HP4401: D -11
+SmuB: BG -14
+Aux1: H1:1 -13
+Aux2: H1:2 -12
+
+Aux3: H2:1 - 9
+Aux4: H2:2 -1
+SOURCE A1: V (DC) Yokogawa#1
+ (Start:Stop:Step:Div) : (-0.75 : 0.75 : 0.0025 : 1)
+Ch1 Amplifier (x/V): 1.000E-9
+Average resistance: 50.9176E+9
+Measurement time: 0h 8m 55s 
+
+#PROGRAM SETTINGS:#
+A Filter signals:1.000000E+0;
+B Filter signals :1.000000E+0;
+A Speed (NPLC):1.000000E+0;
+B Speed (NPLC):1.000000E+0;
+A Measure I (low):0.000000E+0;
+B Measure I (low):0.000000E+0;
+A Measure V (low) 2:0.000000E+0;
+B Measure V (low) 2:0.000000E+0;
+Keithley 2636B GPIB:2.000000E+1;
+A Source V (low) :0.000000E+0;
+B Source V (low) :0.000000E+0;
+A Source I limit:2.000000E-4;
+B Source I limit:2.000000E-4;
+A analog filter:1.000000E+0;
+B analog filter:1.000000E+0;
+Sweep Source A1:4.000000E+0;
+Start A1:-7.500000E-1;
+Step A1:2.500000E-3;
+Stop A1:7.500000E-1;
+Divider A1:1.000000E+0;
+Wait before read (ms) A:1.000000E+2;
+SR830#1 Channel1:2.000000E+0;
+SR830#1 Channel2:2.000000E+0;
+SR830#2 Channel1:2.000000E+0;
+SR830#2 Channel2:2.000000E+0;
+GPIB HP#3:2.100000E+1;
+Y, theta (3):0.000000E+0;
+X, radius (3):0.000000E+0;
+Z, phi (2):0.000000E+0;
+X, radius (2):0.000000E+0;
+Z, phi (1):0.000000E+0;
+Y, theta (1):0.000000E+0;
+Vector Coord system:0.000000E+0;
+GPIB HP#4:2.000000E+1;
+Angle Threshold:1.000000E+0;
+Variable::2.000000E+0;
+Range Yoko#4:3.000000E+0;
+Yokogawa#4 GPIB:2.300000E+1;
+Step Source B2:0.000000E+0;
+Divider B2:1.000000E+0;
+Start B2:0.000000E+0;
+Stop B2:-7.000000E-1;
+Step Source B1:0.000000E+0;
+Start B1:6.000000E-1;
+Step B1:2.000000E-1;
+Stop B1:1.000000E+0;
+Divider B1:1.000000E+0;
+Wait between steps (s) B:1.000000E+0;
+GPIB HP#2:2.100000E+1;
+Figure1 channel:1.000000E+0;
+Figure2 channel:2.000000E+0;
+Temperature Channel:5.000000E+0;
+Sweep Mode:2.000000E+0;
+Rate [T / min]:0.000000E+0;
+Time [min]:0.000000E+0;
+Com Mode:3.000000E+0;
+Select active system:0.000000E+0;
+Remote Port:3.357600E+4;
+IP Address:192.168.0.2;
+Bytes to Read:5.000000E+3;
+Timeout:6.000000E+4;
+GPIB SR830#1:1.800000E+1;
+Ramp step wait (ms):1.000000E+2;
+# Ramp steps to start A:1.000000E+2;
+Pre-factor 1:2.000000E+0;
+SR830#1 Input config:2.000000E+0;
+SR830#1 Time constant:8.000000E+0;
+C-list:;
+SR830#1 LP Filter:2.000000E+0;
+SR830#1 Freq. mode:1.000000E+0;
+SR830#1 Frequ.:6.340000E+1;
+SR830#1 Input coupling:0.000000E+0;
+SR830#1 Float/Ground:1.000000E+0;
+SR830#1 Notch filter:0.000000E+0;
+Iterations:5.000000E+0;
+Base duration:5.000000E-2;
+Base level:0.000000E+0;
+Pulsed sweep?:0.000000E+0;
+Channel 4:0.000000E+0;
+Pre-factor 4:0.000000E+0;
+Exponent 4:2.000000E+0;
+SR830#1 Channel4:2.000000E+0;
+SR830#2 Channel4:2.000000E+0;
+GPIB HP#1:2.600000E+1;
+HP1 Resolution:1.000000E+0;
+HP1 Range:0.000000E+0;
+HP INPUT Imp.:1.000000E+0;
+Exponent 1:2.000000E+0;
+Channel 1:0.000000E+0;
+Range Yoko#1:2.000000E+0;
+Range Yoko#2:3.000000E+0;
+SR830#1 Sync filter:0.000000E+0;
+SR830#2 Input config:2.000000E+0;
+SR830#2 Time constant:8.000000E+0;
+SR830#2 LP Filter:2.000000E+0;
+SR830#2 Freq. mode:0.000000E+0;
+SR830#2 Frequ.:6.340000E+1;
+SR830#2 Input coupling:0.000000E+0;
+Yokogawa#3 GPIB:2.300000E+1;
+Range Yoko#3:3.000000E+0;
+Data points B:1.000000E+0;
+Data points A:3.010000E+2;
+A: Step choice:0.000000E+0;
+B: Step choice:0.000000E+0;
+336 channel :1.000000E+0;
+Lakeshore 336 GPIB:0.000000E+0;
+Yokogawa#1 GPIB:1.200000E+1;
+Yokogawa#2 GPIB:2.100000E+1;
+Sweeps per Step:6.000000E+0;
+Average for derivative:3.000000E+0;
+SR830#2 Float/Ground:1.000000E+0;
+SR830#2 Notch filter:0.000000E+0;
+SR830#2 Sync filter:0.000000E+0;
+Wait_com:2.550000E+2;
+GPIB SR830#2:2.400000E+1;
+Output R:1.000000E+0;
+Offset Intensity 0.5?:1.000000E+0;
+Also save as spreadsheet?:1.000000E+0;
+Activate Ch2/Ch1 4pr plot?:0.000000E+0;
+Ramp between B-steps:0.000000E+0;
+# Ramp steps to start B,C:1.000000E+2;
+Sweep_wait_com:1.000000E+2;
+Keithley 236 GPIB:1.600000E+1;
+Activate periodic temperature readings?:0.000000E+0;
+Activate Ch2 vs. Ch1 plot?:0.000000E+0;
+Delay start?:0.000000E+0;
+Ramp A to 0 after?:1.000000E+0;
+Ramp B to 0 after?:1.000000E+0;
+Channel 2:0.000000E+0;
+GPIB HP#2:2.100000E+1;
+Exponent 2:2.000000E+0;
+Pre-factor 2:2.000000E+0;
+HP2 Resolution:1.000000E+0;
+HP3 Resolution:1.000000E+0;
+HP4 Resolution:1.000000E+0;
+HP2 Range:0.000000E+0;
+HP3 Range:0.000000E+0;
+HP4 Range:0.000000E+0;
+Channel 3:0.000000E+0;
+Pre-factor 3:0.000000E+0;
+Exponent 3:2.000000E+0;
+SR830#1 Channel3:2.000000E+0;
+SR830#2 Channel3:2.000000E+0;
+Symmetric sweep bias?:0.000000E+0;
+Array length to monitor:3.000000E+0;
+P regulator:5.000000E+0;
+I regulator:2.000000E+0;
+Sweep Source A2:0.000000E+0;
+Divider A2:1.000000E+0;
+Start A2:0.000000E+0;
+Stop A2:-5.000000E-1;
+Lower Threshold (T):2.000000E-4;
+B-field limit (T):8.500000E+0;
+D regulator:1.000000E+0;
